@@ -1,0 +1,10 @@
+neo4j:
+  host: localhost
+  port: 7687
+  db: neo4j
+  user: neo4j
+  pass: 123456
+
+jwt:
+  secret: "Your_Secret_Code"
+  expire: 9999
